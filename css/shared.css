@@ -1,0 +1,23 @@
+
+
+body{
+  font-size: 1.5rem;
+
+}
+hr{
+
+}
+
+h1{
+  font-size: 4rem;
+}
+
+#link{
+  margin: auto 1rem;
+}
+
+#example{
+  width: 20%;
+  margin-bottom: 2rem;
+  display: block;
+}
